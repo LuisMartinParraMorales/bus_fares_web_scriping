@@ -1,0 +1,30 @@
+{
+  "template": "https://github.com/arup-group/cookiecutter-pypackage.git",
+  "commit": "bb2bab415eded9682b2c1d465a281450ec922f1c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Luis Parra",
+      "email": "luis.parramorales@arup.com",
+      "github_username": "LuisMartinParraMorales",
+      "repository_owner": "arup-group",
+      "project_title": "Bus Fares Web Scripping",
+      "repository_name": "bus_fares_web_scriping",
+      "package_name": "cml_bus_fares_web_scriping",
+      "module_name": "bus_fares_web_scriping",
+      "project_short_description": "Contains reference code to download the bus services data from operators' web pages",
+      "upload_pypi_package": "y",
+      "upload_conda_package": "y",
+      "upload_aws_image": "n",
+      "conda_channel": "cd web_bus_fares_web_scriping",
+      "command_line_interface": "y",
+      "create_docker_file": "y",
+      "create_author_file": "y",
+      "create_jupyter_notebook_directory": "y",
+      "check_docs_accessibility_in_CI": "n",
+      "open_source_license": "Not open source",
+      "_template": "https://github.com/arup-group/cookiecutter-pypackage.git"
+    }
+  },
+  "directory": null
+}
