@@ -1,0 +1,1 @@
+## Trial of a text file within a new directory within the repository folder
